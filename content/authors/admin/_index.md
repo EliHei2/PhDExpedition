@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Elyas Heidari
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student of AI in Onchology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: German Cancer Research Center (DKFZ)
+    url: https://www.dkfz.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My main goal is to be a responsible person, effective in understanding how cancer evolves spatially using computational tools.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Causal Modeling
+  - Cancer
   - Information Retrieval
 
 # Education to show in About widget
