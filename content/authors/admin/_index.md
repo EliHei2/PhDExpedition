@@ -14,7 +14,7 @@ organizations:
     url: https://www.dkfz.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My main goal is to be a responsible person, effective in understanding how cancer evolves spatially using computational tools.
+bio: My main goal is to be a responsible citizen, an honest researcher, effective in understanding how cancer evolves spatially using computational tools.
 
 # Interests to show in About widget
 interests:
