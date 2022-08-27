@@ -18,9 +18,9 @@ bio: My main goal is to be a responsible citizen, an honest researcher, effectiv
 
 # Interests to show in About widget
 interests:
-  - Causal Modeling
-  - Cancer
-  - Information Retrieval
+  - Mathematical Modeling of Cancer
+  - Spatial Omics of Cancer
+  - Deep Learning for Scientific Discovery
 
 # Education to show in About widget
 education:
@@ -65,4 +65,4 @@ highlight_name: true
 
 My all-time faviorite math prof once called me "a pseudo-scientist", "you are curious about so many problems, but you know nothing!", he said. He was indeed a genious, I find no definition of myself better than this. Here, I will share my very personal experineces, aha- and duh moments, scientefic breaktrhoughs, and brain bugs with the "public". This is more of a personal experiment rather than something necessarily useful for the public.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
