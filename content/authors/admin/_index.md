@@ -6,7 +6,7 @@ title: A pseudo-scientist
 superuser: true
 
 # Role/position/tagline
-role: PhD student of AI in Onchology
+role: PhD student of AI in Oncology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -63,6 +63,6 @@ email: ''
 highlight_name: true
 ---
 
-My all-time faviorite math prof once called me "a pseudo-scientist", "you are curious about so many problems, but you know nothing!", he said. He was indeed a genious, I find no definition of myself better than this. Here, I will share my very personal experineces, aha- and duh moments, scientefic breaktrhoughs, and brain bugs with the "public". This is more of a personal experiment rather than something necessarily useful for the public.
+My all-time faviorite math prof once called me a "pseudo-scientist", "you are curious about so many problems, but you know nothing!", he said. He was a genious indeed. I've never found a better definition of myself. Here, I will share my very personal experineces, aha- and duh moments, scientefic breaktrhoughs, and brain worms with the "public". This is more of a personal experiment rather than something necessarily useful for the "public". Every week, a post about my life experiences as an adventurous academic, and a scientific post about a topic that I've been learning that week.
 
 
