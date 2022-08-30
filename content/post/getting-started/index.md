@@ -1,9 +1,9 @@
 ---
 title: This is a test post!
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+subtitle: yes! a test post!
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: True.
 
 # Link this post with a project
 projects: []
